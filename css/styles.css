@@ -31,32 +31,32 @@ div {
     padding: 25px;
 }
 
-.red {
+#red {
     background-color: red;
     text-align: right;
 }
 
-.blue {
+#blue {
     background-color: blue;
     text-align: left;
 }
 
-.yellow {
+#yellow {
     background-color: yellow;
     text-align: right
 }
 
-.yellow h2 {
+#yellow h2 {
     color: black;
 
 }
 
-.yellow p {
+#yellow p {
     color: black;
     filter: drop-shadow(5px 5px 2px #c7e2c7);
 }
 
-.green {
+#green {
     background-color: green;
     text-align: left;
 }
